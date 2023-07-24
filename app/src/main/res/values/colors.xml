@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#7CCD7C</color>
+    <color name="grew">#CAE1FF</color>
+    <color name="deep_grew">#636363</color>
+    <color name="default_button">#CECFCF</color>
+    <color name="gold">#FFBB00</color>
+</resources>
